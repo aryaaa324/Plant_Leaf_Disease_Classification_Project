@@ -13,6 +13,7 @@ Images are categorized into:
 1. Training set: Used to train the model.
 2. Validation set: Used to tune hyperparameters and monitor performance during training.
 3. Test set: Used to evaluate the model's performance on unseen data.
+Dataset Link: https://universe.roboflow.com/jaymoh/plant-diseases-vmkpn
 
 ->Technologies Used:
 Programming Language: Python
